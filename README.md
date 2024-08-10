@@ -16,3 +16,6 @@
 :construction: Proyecto en construcción :construction:
 </h4>
 
+Para ejecutar el sistema, debe poner:
+
+```npm install react```
